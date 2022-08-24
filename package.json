@@ -1,0 +1,11 @@
+{
+  "name": "hello-nodejs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:jamloveu/hello-nodejs.git",
+  "author": "jam <jamis404@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
